@@ -1,11 +1,11 @@
 ## 1 | Project at a Glance
-This capstone applies a full CRISP‑DM pipeline to LendingClub’s 2014‑15 open‑loan data, walking from raw data ingestion through exploratory analysis, ML‑driven default/return prediction, and finally portfolio optimisation. All work is contained in three Jupyter notebooks—one for each update—plus slide decks that were used for class presentations :contentReference[oaicite:0]{index=0}.
+This capstone applies a full CRISP‑DM pipeline to LendingClub’s 2014‑15 open‑loan data, walking from raw data ingestion through exploratory analysis, ML‑driven default/return prediction, and finally portfolio optimisation. All work is contained in three Jupyter notebooks—one for each update—plus slide decks used for class presentations.
 
 | Phase | Notebook | Slide deck | Key deliverable |
 |-------|----------|-----------|-----------------|
 | Update 1 | [Code](https://github.com/bhaveshjain1612/Peer2PeerLoanAnalysis/blob/main/Part1_code.ipynb) | [Presentation](https://github.com/bhaveshjain1612/Peer2PeerLoanAnalysis/blob/main/Part1_presentation.ipynb) | Cleaned dataset, EDA, K‑means + PCA |
-| Update 2 | [Code](https://github.com/bhaveshjain1612/Peer2PeerLoanAnalysis/blob/main/Part2_code.ipynb) | [Presentation](https://github.com/bhaveshjain1612/Peer2PeerLoanAnalysis/blob/main/Part2_presentation.ipynb)} | Classification & return‑regression models |
-| Update 3 | [Code](https://github.com/bhaveshjain1612/Peer2PeerLoanAnalysis/blob/main/Part3_code.ipynb) | [Presentation](https://github.com/bhaveshjain1612/Peer2PeerLoanAnalysis/blob/main/Part3_presentation.ipynb)` | Integer‑programmed optimal portfolio & sensitivity tests |
+| Update 2 | [Code](https://github.com/bhaveshjain1612/Peer2PeerLoanAnalysis/blob/main/Part2_code.ipynb) | [Presentation](https://github.com/bhaveshjain1612/Peer2PeerLoanAnalysis/blob/main/Part2_presentation.ipynb) | Classification & return‑regression models |
+| Update 3 | [Code](https://github.com/bhaveshjain1612/Peer2PeerLoanAnalysis/blob/main/Part3_code.ipynb) | [Presentation](https://github.com/bhaveshjain1612/Peer2PeerLoanAnalysis/blob/main/Part3_presentation.ipynb) | Integer‑programmed optimal portfolio & sensitivity tests |
 
 An example output—the 100‑loan, risk‑balanced portfolio—is saved as [Portfolio.csv](https://github.com/bhaveshjain1612/Peer2PeerLoanAnalysis/blob/main/optimized_loan_portfolio.csv).
 
