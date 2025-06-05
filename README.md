@@ -3,9 +3,9 @@ This capstone applies a full CRISP‑DM pipeline to LendingClub’s 2014‑15 op
 
 | Phase | Notebook | Slide deck | Key deliverable |
 |-------|----------|-----------|-----------------|
-| Update 1 | [Code](https://github.com/bhaveshjain1612/Peer2PeerLoanAnalysis/blob/main/Part1_code.ipynb) | [Presentation](https://github.com/bhaveshjain1612/Peer2PeerLoanAnalysis/blob/main/Part1_presentation.ipynb) | Cleaned dataset, EDA, K‑means + PCA |
-| Update 2 | [Code](https://github.com/bhaveshjain1612/Peer2PeerLoanAnalysis/blob/main/Part2_code.ipynb) | [Presentation](https://github.com/bhaveshjain1612/Peer2PeerLoanAnalysis/blob/main/Part2_presentation.ipynb) | Classification & return‑regression models |
-| Update 3 | [Code](https://github.com/bhaveshjain1612/Peer2PeerLoanAnalysis/blob/main/Part3_code.ipynb) | [Presentation](https://github.com/bhaveshjain1612/Peer2PeerLoanAnalysis/blob/main/Part3_presentation.ipynb) | Integer‑programmed optimal portfolio & sensitivity tests |
+| Update 1 | [Code](https://github.com/bhaveshjain1612/Peer2PeerLoanAnalysis/blob/main/Part1_Code.ipynb) | [Presentation](https://github.com/bhaveshjain1612/Peer2PeerLoanAnalysis/blob/main/Part1_Presentation.ipynb) | Cleaned dataset, EDA, K‑means + PCA |
+| Update 2 | [Code](https://github.com/bhaveshjain1612/Peer2PeerLoanAnalysis/blob/main/Part2_Code.ipynb) | [Presentation](https://github.com/bhaveshjain1612/Peer2PeerLoanAnalysis/blob/main/Part2_Presentation.ipynb) | Classification & return‑regression models |
+| Update 3 | [Code](https://github.com/bhaveshjain1612/Peer2PeerLoanAnalysis/blob/main/Part3_Code.ipynb) | [Presentation](https://github.com/bhaveshjain1612/Peer2PeerLoanAnalysis/blob/main/Part3_Presentation.ipynb) | Integer‑programmed optimal portfolio & sensitivity tests |
 
 An example output—the 100‑loan, risk‑balanced portfolio—is saved as [Portfolio.csv](https://github.com/bhaveshjain1612/Peer2PeerLoanAnalysis/blob/main/optimized_loan_portfolio.csv).
 
